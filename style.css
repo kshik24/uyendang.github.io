@@ -1,0 +1,30 @@
+body{
+	margin: 0px;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+#sec01{
+	width: 100vw;
+	height: 100vh;
+	background-color: whitesmoke;
+}
+
+#sec02{
+	width: 100vw;
+	height: 100vh;
+	background-color: orange;
+}
+
+#sec03{
+	width: 100vw;
+	height: 100vh;
+	background-color: lightpink;
+}
+
+#sec04{
+	width: 100vw;
+	height: 100vh;
+	background-color: blueviolet;
+}
